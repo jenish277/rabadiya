@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.off{
+    display: none;
+}
+img{
+    height: 200px;
+}
+.container{
+    text-align: center;
+}
+#on-off{
+    padding: 3px;
+    border-radius: 5px;
+}
